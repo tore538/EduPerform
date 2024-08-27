@@ -30,7 +30,8 @@ The Academic Performance Tracking contract is deployed on the Ethereum blockchai
 0xd67b10489bb955c0453b41b8a403cde71ba0cc06
 
 # Edu perform 
-![image](https://github.com/user-attachments/assets/af45be60-290d-4891-8b1d-39eb3f74bc2a)
+![image](https://github.com/user-attachments/assets/1b6c54cf-a621-4c08-8c9b-3881113aecd5)
+
 
 
 ## Usage
