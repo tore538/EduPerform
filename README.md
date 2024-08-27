@@ -27,9 +27,8 @@ The Academic Performance Tracking System is designed to streamline the managemen
 ## Contract Address
 The Academic Performance Tracking contract is deployed on the Ethereum blockchain. The contract address is:
 
-**`<Your Contract Address>`**
+0xd67b10489bb955c0453b41b8a403cde71ba0cc06
 
-(Note: Replace `<Your Contract Address>` with the actual address after deployment.)
 
 ## Usage
 
